@@ -1,2 +1,2 @@
-# Node js static app demo
-Node Js demo static app
+# Node js demo
+This is simple static app. Beginner node js programmer can use the code and implement in their way
